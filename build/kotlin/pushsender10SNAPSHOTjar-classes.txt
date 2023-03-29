@@ -1,0 +1,1 @@
+F:\Antonov\Devs\netology\and2-code\push-sender\build\classes\kotlin\main\ru\netology\pusher\MainKt.class
